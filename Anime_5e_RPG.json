@@ -21,8 +21,15 @@
 			"name": "Asrai",
 			"source": "Anime5eRPG",
 			"size": ["M"],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"elvish": true,
+					"sylvan": true
+				}
+			]
 			"speed": {
-              "walk": 30, 
+                        "walk": 30, 
 			  "fly": 30},
 			"ability": [
 				{
