@@ -1,0 +1,89 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Anime5eRPG",
+				"abbreviation": "ARPG",
+				"full": "Anime 5e RPG",
+				"url": "",
+				"authors": [
+					"Dyskami Publishing Company"
+				],
+				"convertedBy": [
+					"Bacon"
+				],
+				"color": "#c20000"
+			}
+		]
+	},
+	"race": [
+		{
+			"name": "Asrai",
+			"source": "Anime5eRPG",
+			"size": ["M"],
+			"speed": {
+              "walk": 30, 
+			  "fly": 30},
+			"ability": [
+				{
+					"dex": 1,
+					"int": 1,
+					"cha": 2
+				}
+			], 
+			"page": 0,
+			"lineage": "VRGR",
+			"entries": [
+				"\"The Wood Elven Kingdom has always co-existed peacefully with the Asrai and we welcome them with open arms as our forest neighbours. Our two nations complement each other: we provide stealth and wisdom in the bush and grass, while they keep watch for trouble from the skies. They do have the strange habit of wandering off unexpectedly in seemingly random directions, claiming that nature is guiding them. They are children of the forest like us, though, so who are we to judge their eccentricities?\"",
+				"Asrai resemble beautiful Humans in most ways, except for their small feathered wings that causes many people who see one to believe they are angelic creatures. They have an inherent connection to the natural world that guides their daily life, and  were created by the planet goddess itself to serve as stewards of the land and leaders of the peoples. Asrai typically live in pastoral forest societies alongside Elves and other woodland creatures, and are a peaceful folk that are always eager to help those in need. Those Asrai that decide on a life of adventure instead are sometimes shunned by their tiny community for acting violently and out of character, though there has always been a role for Asrai with martial talents.",
+				{
+					"type": "entries",
+					"name": "Adventuring Notes",
+					"entries": [
+						"Their gentle nature and modest demeanour often results in many adventurers underestimating the Asrai. Well-rounded and adaptable, Asrai favour Classes that use a diversity of  talents, including Bender, Dynamic Spellbinder, and Magical"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Girl/Guy, and Pet Monster Trainer.",
+					"entries": []
+				},
+				{
+					"type": "entries",
+					"name": "Base Speed",
+					"entries": [
+						"Medium-an Asrai's base speed is 30 feet/round for both ground movement and flying."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Flight",
+					"entries": [
+						"With their small and agile wings, Asrai do not need much room to manoeuvre during flight."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Sixth Sense",
+					"entries": [
+						"Whenever Asrai are in the presence of  a creature, condition, or environment that may cause them harm, their  feathered wings encourage alertness by vibrating intensely with a faint hum."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Special Movement",
+					"entries": [
+						"Their connection with the land will lead an  Asrai's movements in the right direction when they  are open to receiving such guidance. This can sometimes lead them to unexpected destinations, but the earth is rarely wrong."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Subrace Variation",
+					"entries": [
+						"A rare Subrace known as the Blessed Asrai have an even deeper link with nature that allows them to gently reshape their  native lands. The Blessed have Rank 1 Dynamic Power ({@skill Nature})."
+					]
+				}
+			]
+		}
+	]
+}
