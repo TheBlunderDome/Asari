@@ -27,7 +27,7 @@
 					"elvish": true,
 					"sylvan": true
 				}
-			]
+			],
 			"speed": {
                         "walk": 30, 
 			  "fly": 30},
