@@ -30,7 +30,7 @@
 			],
 			"speed": {
                         "walk": 30, 
-			  "fly": 30},
+			  "fly": 20},
 			"ability": [
 				{
 					"dex": 1,
